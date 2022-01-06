@@ -35,3 +35,23 @@ h2 {
     padding: 10px 40px;
     border-radius: 5px;
 }
+.journey-section{
+    display: flex;
+}
+.journey-div{
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+.journey-div img {
+    width: 150px;
+    margin-bottom: 24px;
+}
+.journey-pad{
+    padding-left: 20px;
+}
+
