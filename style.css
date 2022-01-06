@@ -54,4 +54,38 @@ h2 {
 .journey-pad{
     padding-left: 20px;
 }
-
+.develop-without{
+    display: flex;
+    margin-top: 80px;
+    margin-bottom: 120px;
+}
+.coding-img {
+    width: 40%;
+    padding-left: 31px;
+}
+.coding-img img{
+    width: 80%;
+    
+}
+.coding-section {
+    width: 60%;
+    margin-top: 12px;
+}
+.coding-section h3{
+    font-size: 40px;
+}
+.community-section {
+    width: 60%;
+    margin-top: 12px;
+    margin-left: 49px;
+}
+.community-section h3{
+    font-size: 40px;
+}
+.community-img{
+    width: 40%;
+    padding-left: 31px;
+}
+.community-img img{
+    width: 80%;
+}
